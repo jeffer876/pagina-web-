@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INEB-D Sergio Leonel Celis Navas</title>
+    <style>
+        body {
+            font-family: 'courier', serif; 
+            margin: 1.5;
+            padding: 0;
+            background: linear-gradient(135deg,white, #ccffcc, #66ccff, #ffcc00);
+            color: #333;
+        }
+        header {
+            background-color: #003366;
+            padding: 20px;
+            text-align: center;
+            color: yellow;
+        }
+        h1 {
+            font-family:'Georgia',serif;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Instituto Nacional de Educacion Basica y Diversificada INEB-D "Sergio Leonel Celis Navas" </h1>
+    </header>
+<nav style="background-color: #f8f9fa; padding: 10px; text-align: center;">
+    <a href="#acerca" style="margin: 0 15px; font-family: 'Arial', sans-serif; color: #007bff;">Galeria</a>
+    <a href="#carreras" style="margin: 0 15px; font-family: 'Arial', sans-serif; color: #007bff;">Carreras</a>
+    <a href="#galeria" style="margin: 0 15px; font-family: 'Arial', sans-serif; color: #007bff;">Acerca de Nostros</a>
+    <a href="#contacto" style="margin: 0 15px; font-family: 'Arial', sans-serif; color: #007bff;">Contacto</a>
+</nav>
+    <section id="acerca de nostros">
+        <h2 style="text-align: center;font-family:">Acerca De Nuestra Institucion INEB-D "Sergio Leonel Celis Navas"<h2/>
+        <p style="line-height: 1.5; font -family: Arial, sans-serif;">Somos una institucion publica que imparte el conocimiento a los jovenes de sumpango y areas aledañas desde el año 2009, nuestra dedicacion es brindar una educacion de calid formando a los joneves en un ambiente de disciplina y respeto,  nuetra mision es promover el desarollo integral de los estudiaste y prepararlos para los retos del futuro.</p>
+        </section>
+    <section id="Niveles Academicos">
+        <h2 style="text-align: center; font-family: 'Georgia',serif;">Niveles Academicos</h2>
+        <ul style="font-famuly:'Arial', sans-serif; line-height:1.6;">
+            <li>&#10003; Ciclo Basico (1ro 2do y 3ro basico)</li>
+    <section id="Nivel Diversificado">
+            <li>&#10003; Bachilerato En Ciencias Letras Con Orientacion En Computacion (2años)</li>
+            <li>&#10003; Perito Contador (3 años)</li> 
+        </ul>
+    </section> 
+<section id="galeria">
+  <h2 style="text-align: center; font-family: 'Georgia', serif;">Galería</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\fondo.jpg.jpg" alt="Imagen 1" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\11.jpg" alt="Imagen 2" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\mm.jpg" alt="Imagen 3" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\mab.jpg" alt="Imagen 4" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\kl.jpg" alt="Imagen 5" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\19.jpg" alt="Imagen 6" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\pyt.jpg" alt="Imagen 7" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\te.jpg" alt="Imagen 8" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\vr.jpg" alt="Imagen 9" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\puy.jpg" alt="Imagen 10" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\20.jpg" alt="Imagen 11" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\uyt.jpg" alt="Imagen 12" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\yo.jpg" alt="Imagen 13" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\qe.jpg" alt="Imagen 14" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\yt.jpg" alt="Imagen 15" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\per.jpg" alt="Imagen 16" style="width: 150px; height: auto; margin: 10px;">  
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\ya.jpg" alt="Imagen 17" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\12.jpg" alt="Imagen 18" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\13.jpg" alt="Imagen 19" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\14.jpg" alt="Imagen 20" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\15.jpg" alt="Imagen 21" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\16.jpg" alt="Imagen 22" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\17.jpg" alt="Imagen 23" style="width: 150px; height: auto; margin: 10px;">
+    <img src="C:\Users\Windows\OneDrive\Escritorio\pagina web\18.jpg" alt="Imagen 24" style="width: 150px; height: auto; margin: 10px;">
+  </div>
+</section>
+<section id="carreras" style="margin: 20px 0; text-align: center;">
+    <h2 style="font-family: Georgia, serif;">Te Ofrecemos las Siguientes Carreras</h2>
+    <div style="font-family: Arial, sans-serif; line-height: 1.5; text-align: left; margin: 0 auto; width: 80%;">
+        <ul style="list-style-type: none; padding: 0;">
+            <li>✔ Bachillerato en Ciencias y Letras con Orientación en Computación (2 años) te gusta la tecnologia y la informatica pues esta carrera es ideal para ti</li>
+            <li>✔ Perito Contador (3 años) si te gustan las finanzas y los negocios pues esta carrera es ideal para ti</li>
+        </ul>
+    </div>
+</section>
+<section id="acerca" style="margin: 20px 0; text-align: center;">
+    <h2 style="font-family: Georgia, serif; color: #007bff;">Acerca de Nuestra Institucion</h2>
+    <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0 auto; width: 80%; color: #333;">
+        <p>
+            En el instituto Nacional de Educacion Basica y Diversifica (INEB-D) "Sergio Leonel Celis Navas" J.V., nos dedicamos a formar líderes del futuro. Desde el año 2009, ofrecemos una educación integral que combina conocimiento académico con valores éticos. Nuestro enfoque es proporcionar un ambiente donde los estudiantes puedan crecer, aprender y desarrollar habilidades para el futuro y los retos de la vida.
+        </p>
+        <p>
+            Contamos con un equipo docente altamente capacitado que se preocupa por el desarrollo personal de cada estudiante. Nuestras carreras están diseñadas para que cada estudiante emprenda nuevas habilidades, asegurando que nuestros estudiantes egresados estén listos para enfrentar cualquier desafío.
+        </p>
+        <p>
+            ¡Únete a nosotros y forma parte de una comunidad educativa comprometida con el éxito y el bienestar de todos nuetros estudiantes!
+        </p>
+    </div>
+</section>
+<section id="publicaciones">
+    <h2>recientes actividades </h2>
+    <p>Publicaciones de actividades en el INEB-D:</p>
+    <a href="https://www.facebook.com/profile.php?id=100063559627992&mibextid=ZbWKwL" target="_blank" style="text-decoration: none; background-color: #4267B2; color: white; padding: 10px 20px; border-radius: 5px;">Ir a Facebook</a>
+</section>
+<section id="contantos">
+    <h2>Contactanos y vista nuestro pagian de Facebook</h2>
+    <p>
+       <strong>Telefono:</strong>
+       <a href="tel.+5027833-1687" style="text-decoration: none; color: #000;">+502 7833-1687</a>
+    </p>
+    <p>
+       <strong>Facebook:</strong>
+       <a href="https://www.facebook.com/profile.php?id=100063559627992&mibextid=ZbWKwL" target="_black" style="text-decoration: none; color:#4267B2;">Visitanos en Facebook</a>
+    </p>
+    <p>
+       <strong>Ubicacion:</strong>
+       <a href="https://maps.app.goo.gl/MohoCWXXsFB9qjnf7" target="_black" style="text-decoration: none; color:#000;">Nuetra Ubicacion</a>
+    </p>
+</section>
+<section id="comentarios">
+    <form action="" method="post">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+        
+        <label for="comentario">Tu comentario:</label><br>
+        <textarea id="comentario" name="comentario" rows="4" cols="50" required></textarea><br><br>
+        <input type="submit" value="Enviar Comentario">
+    </form>
+</section>
